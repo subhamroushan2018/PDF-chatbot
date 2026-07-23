@@ -81,11 +81,12 @@ Final Answer
 ```
 PDF-Chatbot/
 │
-├── app.py
+├── Model
+|     ├── app.py
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-└── LICENSE
+
 ```
 
 ---
